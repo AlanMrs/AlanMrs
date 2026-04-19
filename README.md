@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy [Tu Nombre]!
+# 👋 ¡Hola, soy Alan Wilner Moris Fermán!
 
 ## 📖 Sobre mí
 Soy un docente y desarrollador apasionado por crear soluciones de software impactantes y centradas en el usuario. Recientemente completé mi formación intensiva en el bootcamp de **Transformación digital para la docencia técnica**, donde profundicé en el ecosistema de Inteligencias Artificiales, Automatizaciones con n8n y desarrollo de aplicaciones con JavaScript. Me fascina el equilibrio entre el diseño visual y la funcionalidad técnica, y siempre estoy buscando nuevos retos para seguir aprendiendo.
@@ -38,7 +38,7 @@ Aquí están algunas de las tecnologías con las que he trabajado recientemente:
 ### Proyecto_naviera - Sistema de gestión de documentación de embarques
 Proyecto para la gestión de documentación necesaria para el embarque de mercancias
 
-* **Tecnologías:** Python, Django, PostgreSQL.
+* **Tecnologías:** Python, Django, MongoDB.
 * 🔗 [Ver Proyecto en Vivo](https://desoftin.net)
 * 💻 [Repositorio en GitHub](https://github.com/mf21015/Proyecto_naviera)
 
